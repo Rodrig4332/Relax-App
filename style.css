@@ -6,8 +6,9 @@ html {
 
 body {
     font-family: 'Montserrat',sans-serif;
+    font-size: 25px;
     color: #fff;
-    background-image: url('https://images.unsplash.com/photo-1533113354171-490d836238e3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-image: url('https://images.unsplash.com/photo-1572191783453-62f99a6055ce?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
@@ -30,7 +31,7 @@ body {
 }
 
 .circle {
-    background-color: #010f1c;
+    background-color: rgb(14, 78, 174);
     height: 100%;
     width: 100%;
     border-radius: 50%;
